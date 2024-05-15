@@ -6,6 +6,7 @@ importance
   <div>
     <q-btn color="primary" label="Get Picture" @click="captureImage" />
     <img :src="imageSrc" />
+    <img :src="imageSrc" />
   </div>
 </template>
 
